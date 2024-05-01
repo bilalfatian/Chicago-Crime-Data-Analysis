@@ -515,7 +515,3 @@ Also, here is the nbviewer for my jupyter notebook : [Notebook Viewer](https://n
 ## Source of dataset:
 [Chicago Crime Data from 2001 to present](https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2)
 
-## License
-
-See the [LICENSE](https://github.com/k-chuang/chicago-crime-data-analysis/blob/master/LICENSE) file for license rights and limitations (MIT).
-
