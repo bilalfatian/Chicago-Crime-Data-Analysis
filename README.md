@@ -15,7 +15,7 @@ Descriptions of each map visualization is shown below:
   
 * [Crime-per-district-choropleth.html](https://github.com/bilalfatian/Chicago-Crime-Data-Analysis/blob/main/map/Crime-per-district-choropleth.html): This map contains a choropleth map of all the crimes from 2001 to 2023 based on [Chicago Police District](https://data.cityofchicago.org/d/fthy-xz3r)
 
-Also, here is the nbviewer for my jupyter notebook where most of the maps are rendered (the visualization occasionally doesn't show up in Chrome, but does show up on Firefox or Safari): [Notebook Viewer]()
+Also, here is the nbviewer for my jupyter notebook : [Notebook Viewer](https://nbviewer.org/github/bilalfatian/Chicago-Crime-Data-Analysis/blob/main/Chicago-Crime-Data-Analysis.ipynb)
 
 
 
