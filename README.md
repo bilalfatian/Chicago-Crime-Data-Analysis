@@ -11,8 +11,8 @@ Descriptions of each map visualization is shown below:
   
 - `map/January-2023-chicago-crime-heatmap.html` : This map contains a heat map of all crimes commited so far in the month of March (March 1, 2018 to March 19, 2018).
   
-- `map/Crime-per-district-choropleth.html` : This map contains a choropleth map of all the crimes from 2001 to 2023 based on [Chicago Police District](https://data.cityofchicago.org/d/fthy-xz3r)
-
+- `map/Crime-per-district-choropleth.html` : This map contains a choropleth map of all the crimes from 2001 to 2023 based on Chicago Police District
+- 
 Also, here is the nbviewer for my jupyter notebook to see all visualizations : [Notebook Viewer](https://nbviewer.org/github/bilalfatian/Chicago-Crime-Data-Analysis/blob/main/Chicago-Crime-Data-Analysis.ipynb)
 
 
